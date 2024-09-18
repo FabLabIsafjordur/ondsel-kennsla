@@ -2,17 +2,14 @@
 
 Teiknum LEGO kubb í Ondsel ES.
 
-Á Fab Lab Ísland fundinum miðvikudaginn 18. september teiknuðum við LEGO kubb og komumst nánast alla leið. Mér finnst best að láta nemendur klára kubbinn sjálfa með aðferðunum sem ég er búinn að sýna þeim.
-
-Hvað vantar?
+Á Fab Lab Ísland fundinum miðvikudaginn 18. september teiknuðum við LEGO kubb. 
 
 Við komumst svona langt saman:
 
-<video controls width=100%>
-        <source src="https://github.com/FabLabIsafjordur/ondsel-kennsla/blob/a4f746adf6aefcb3e59cd57c6ec8f56f8503cce7/images/lego-flip.mp4" type="video/mp4">
-    </video>
+![LEGO flip](images/lego-flip.gif)
 
-    
+Eins og [LEGO heimildarmyndin sýnir](https://youtu.be/qr_dTySMl7s?si=GOWY0GLPucYDNKjk&t=695) (vinsælt myndband á mínu heimili) þá voru fyrstu LEGO kubbarnir svona, en þeir héldust ekki nógu vel saman. Galdurinn, og kjarninn í LEGO einkaleyfinu, eru rörin sem eru undir kubbnum. Ég vil að þið teiknið eitt rör í Part workbench og farið síðan í Draft workbench og gerið Array.
 
-https://github.com/user-attachments/assets/9dac43c9-02bc-46cb-97e6-5e96272822f0
+Hér eru málin á rörinu:
 
+![LEGO rör mál](images/lego-ror-mal.jpg)
