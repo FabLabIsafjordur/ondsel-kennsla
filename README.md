@@ -9,5 +9,5 @@ Hvað vantar?
 Við komumst svona langt saman:
 
 <video controls width=100%>
-        <source src="images/lego-flip.mp4" type="video/mp4">
+        <source src="https://github.com/FabLabIsafjordur/ondsel-kennsla/blob/a4f746adf6aefcb3e59cd57c6ec8f56f8503cce7/images/lego-flip.mp4" type="video/mp4">
     </video>
