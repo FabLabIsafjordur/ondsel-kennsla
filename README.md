@@ -2,8 +2,6 @@
 
 ## Fyrirmæli
 
-Teiknum LEGO kubb í Ondsel ES.
-
 Á Fab Lab Ísland fundinum miðvikudaginn 18. september teiknuðum við LEGO kubb. 
 
 Við komumst svona langt saman:
