@@ -20,4 +20,4 @@ Hér er ég búinn að þrívíddarprenta eitt stykki:
 
 Hvernig teiknar maður eiginlega rörin? 
 - Ein leið er að fara í Sketcher workbench, gera nýja skissu á yfirborðið inni í kubbnum (eða á XY planið). Teikna tvo hringi með sömu miðju og málsetja. Loka síðan skissunni, fara í Part workbench og gera extrude. Hversu langt? Hæð kubbsins mínus veggþykktin (14,4mm - 1,8mm).
-- Önnur leið er að búa til Tube með sömu aðferð og við bjuggum til Cube í byrjun (gulu grunnformin í Part workbench). Síðan getið þið valið Tube í trénu vinstra megin og still stærð og staðsetningu í Property View.
+- Önnur leið er að búa til Tube með sömu aðferð og við bjuggum til Cube í byrjun (gulu grunnformin í Part workbench). Þegar þið eruð komin með rör á skjáinn þá getið þið valið Tube í trénu vinstra megin og stillt stærð og staðsetningu þess í Property View. Munið þið eftir Property View?
