@@ -29,4 +29,9 @@ Hvernig teiknar maður eiginlega rörin?
 
 ## Þrívíddarprentun
 
-Ef þú ætlar að þrívíddarprenta kubbinn þá þarftu að velja allt saman og gera Union í Part workbench. Síðan velurðu kubbinn, ferð í File -> Export og velur STL í glugganum þar sem þú gefur exportaða módelinu nafn.
+Ef þú ætlar að þrívíddarprenta kubbinn þá þarftu að sameina allt í einn hlut og breyta honum í STL. 
+
+1. Þú velur marga hluti í trénu með því að halda inni Ctrl. Þetta ættu að vera tvö Array og eitt Cut. 
+2. Síðan gerirðu Union í Part workbench (stundum kallað [Part_Fuse](https://wiki.freecad.org/Part_Fuse)). 
+3. Að lokum velurðu kubbinn og ferð í File -> Export.
+4. Þá kemur upp gluggi til að gefa exportaða módelinu nafn. Undir nafninu skaltu velja STL.
