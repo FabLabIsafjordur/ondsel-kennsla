@@ -13,3 +13,7 @@ Eins og [LEGO heimildarmyndin sýnir](https://youtu.be/qr_dTySMl7s?si=GOWY0GLPuc
 Hér eru málin á rörinu:
 
 ![LEGO rör mál](images/lego-ror-mal.jpg)
+
+Hér er ég búinn að þrívíddarprenta eitt stykki:
+
+![Þrívíddarprentaður kubbur](images/lego-3d-prent.jpg)
