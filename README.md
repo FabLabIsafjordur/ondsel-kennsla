@@ -1,5 +1,7 @@
 # Ondsel kennsla
 
+## Fyrirmæli
+
 Teiknum LEGO kubb í Ondsel ES.
 
 Á Fab Lab Ísland fundinum miðvikudaginn 18. september teiknuðum við LEGO kubb. 
@@ -21,3 +23,13 @@ Hér er ég búinn að þrívíddarprenta eitt stykki:
 Hvernig teiknar maður eiginlega rörin? 
 - Ein leið er að fara í Sketcher workbench, gera nýja skissu á yfirborðið inni í kubbnum (eða á XY planið). Teikna tvo hringi með sömu miðju og málsetja. Loka síðan skissunni, fara í Part workbench og gera extrude. Hversu langt? Hæð kubbsins mínus veggþykktin (14,4mm - 1,8mm).
 - Önnur leið er að búa til Tube með sömu aðferð og við bjuggum til Cube í byrjun (gulu grunnformin í Part workbench). Þegar þið eruð komin með rör á skjáinn þá getið þið valið Tube í trénu vinstra megin og stillt stærð og staðsetningu þess í Property View. Munið þið eftir Property View?
+
+## Góðar stillingar í Ondsel
+
+Ég mæli með að stilla músina svona:
+https://github.com/user-attachments/assets/92cc200b-430b-4a10-b6b7-a378fe45ee48
+
+
+Til að fá upp Property View:
+https://github.com/user-attachments/assets/acdf3e7a-a5ee-46e7-9fee-77053b6b4a6a
+
