@@ -2,11 +2,11 @@
 
 ## Teikning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4AdMJ4P_9g4?si=LihERoSjjALQqQQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Á Fab Lab Ísland fundi teiknuðum við LEGO kubb saman. Myndband:
 
-Á Fab Lab Ísland fundinum miðvikudaginn 18. september teiknuðum við LEGO kubb. 
+[![Myndband með leiðbeiningum](images/ondsel-thumbnail.jpg)](https://www.youtube.com/watch?v=4AdMJ4P_9g4)
 
-Við komumst svona langt saman:
+Við stoppuðum hér, til þess að allir fengju að spreyta sig á að klára módelið:
 
 ![LEGO flip](images/lego-flip.gif)
 
