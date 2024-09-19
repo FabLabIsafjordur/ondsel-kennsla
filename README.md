@@ -1,6 +1,6 @@
 # Ondsel kennsla
 
-## Fyrirmæli
+## Teikning
 
 Á Fab Lab Ísland fundinum miðvikudaginn 18. september teiknuðum við LEGO kubb. 
 
