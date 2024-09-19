@@ -35,3 +35,5 @@ Ef þú ætlar að þrívíddarprenta kubbinn þá þarftu að sameina allt í e
 2. Síðan gerirðu Union í Part workbench (stundum kallað [Part_Fuse](https://wiki.freecad.org/Part_Fuse)). 
 3. Að lokum velurðu kubbinn og ferð í File -> Export.
 4. Þá kemur upp gluggi til að gefa exportaða módelinu nafn. Undir nafninu skaltu velja STL.
+
+Ég mæli með því að sleppa stuðningsefni í prentuninni.
