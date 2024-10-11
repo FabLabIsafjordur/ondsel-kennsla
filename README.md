@@ -28,7 +28,7 @@ Hvernig teiknar maður eiginlega rörin?
 
 - Ég mæli með að [stilla músina svona](https://github.com/user-attachments/assets/92cc200b-430b-4a10-b6b7-a378fe45ee48).
 - Þið fáið upp [Property View panel svona](https://github.com/user-attachments/assets/acdf3e7a-a5ee-46e7-9fee-77053b6b4a6a).
-
+Þið getið [stækkað punkta í skissum svona](marker-size-no-audio.mp4), svo að það sé auðveldara að smella á þá.
 ## Þrívíddarprentun
 
 Ef þú ætlar að þrívíddarprenta kubbinn þá þarftu að sameina allt í einn hlut og breyta honum í STL. 
